@@ -32,16 +32,13 @@ Aprenda a tornar sua GUI responsiva e adaptável a diferentes tamanhos de tela. 
 * Compilando o Projeto:
 Compile sua aplicação e gere um executável para distribuição, permitindo que outras pessoas usem sua GUI sem a necessidade de instalar o Python e as bibliotecas adicionais. Prepare-se para mergulhar na criação de GUIs elegantes e modernas com Python usando Tkinter e ttkbootstrap. Este tutorial é adequado tanto para iniciantes quanto para desenvolvedores experientes que desejam aprimorar suas habilidades em design de 
 interfaces gráficas.
-<!-- 
+
 # Imagem dos Scripts
 
 <h1 align="center">
-    <a href="https://imgur.com/Ocj7ryU"><img src="https://i.imgur.com/Ocj7ryU.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/JpltMS6"><img src="https://i.imgur.com/JpltMS6.png" title="source: imgur.com" /></a>
     <br />
-    <a href="https://imgur.com/jO4e246"><img src="https://i.imgur.com/jO4e246.png" title="source: imgur.com" /></a>
-    <br />
-    <a href="https://imgur.com/MoQArEl"><img src="https://i.imgur.com/MoQArEl.png" title="source: imgur.com" /></a>
-</h1> -->
+</h1>
 
 # Licensa
 
