@@ -60,7 +60,7 @@ my_check4.pack(pady=10)
 
 var5 = IntVar()
 my_check5 = tb.Checkbutton(
-    bootstyle="secondary, square-toggle",
+    bootstyle="warning, square-toggle",
     text="Sam Developer!",
     variable=var5,
     onvalue=1,
